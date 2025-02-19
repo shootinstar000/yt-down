@@ -1,11 +1,11 @@
 WELCOME TO TERMUX!
 
-Modified for : Youtube-Downloader-Android
-Modified by  : Dr.Delin (dev)
+
+Modified by  : ◔I l◔ Mr.Nobody ◔I l◔
 
 Termux Official download site : https://github.com/termux/termux-app/releases
 
-Script Official download site : https://github.com/DrDelin/Youtube-Downloader-Android
+Script Official download site : https://github.com/shootinstar000/yt-down
 
 Script Troubleshooting:
 
@@ -18,5 +18,5 @@ Utilities:
  
 Languages used for scripting: Python, Shell, Json
 
-Report issues at https://github.com/DrDelin/Youtube-Downloader-Android/issues
+Report issues at  https://t.me/nobody_ismy_name
 
